@@ -2,7 +2,7 @@
 
 Atualmente estou iniciando minha carreira como desenvolvedor front-end e aprofundando meus estudos em HTML e CSS.
 
-Este projeto foi criado como forma de prática, onde desenvolvi uma landing page simples para treinar conceitos fundamentais como:
+Este projeto foi criado como forma de prática. Nele desenvolvi uma landing page simples para treinar conceitos fundamentais como:
 
 - Estruturação com HTML
 - Semântica das tags
@@ -17,7 +17,7 @@ Este projeto foi criado como forma de prática, onde desenvolvi uma landing page
 
 ## Objetivo do projeto
 
-O objetivo deste projeto é reforçar meu aprendizado inicial em desenvolvimento web, praticando a construção de páginas e a organização de código.
+O objetivo deste projeto é reforçar meu aprendizado inicial em desenvolvimento web, praticando a construção de páginas e a organização do código.
 
 ## Autor
 
