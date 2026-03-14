@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.menu {
+
+    margin: 30px 0 0 65px;
+    letter-spacing: 1px;
+    background-color: #a5fffb;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: fit-content;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+
+}
+
+.menu a {
+    text-decoration: none;
+    color: #3b3a3a;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: 0.2s;
+
+
+}
+
+.menu a:hover {
+
+    opacity: 0.5;
+}
+
+.menu a:active {
+
+    opacity: 0.8;
+}
